@@ -1,6 +1,6 @@
 # Construct
  Objetivo: Desenvolver um projeto para gestão de uma loja de materiais de construção, utilizando as tecnologias Python,
-Django e MySQL como banco de dados.
+Django e MySQL.
 
 
 Projeto Construct:
